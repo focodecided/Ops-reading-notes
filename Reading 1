@@ -1,1 +1,13 @@
+Understanding a computer and it components are very crucial in the study of cybersecurity and specifically, this module. 
+When you know how a computer is supposed to work, how it components are supposed to look and react to input, you can then be able to spot and address anomalies. 
+What are the two ways for spies to alter a computer’s hardware? 
+The two ways for spies to alter a computer's hardware are: a) Manipulating components at the factory by implanting extra chips or modifying existing ones. b) Intercepting shipments to insert spy chips into the hardware.
+Explain how the hack worked? 
+The hack worked by implanting a tiny microchip onto Supermicro server motherboards during manufacturing in China. The chips provided a stealth doorway into networks using the altered machines. The chips were designed to be invisible and leave no records or trace of their existence.
+How were investigators able to trace the chips back to the source? 
+Investigators were able to trace the chips back to factories in China where Supermicro motherboards are manufactured. The supply chain security lapse allowed the Chinese government to infiltrate the manufacturing process and alter the hardware. The modifications were traced back to the source factories in China based on the manufacturing and design of the malicious chips.
+How is a hardware hack different from a software hack?
+Hardware hacks involve physical manipulation of components, while software hacks exploit vulnerabilities in code. Hardware is physically altered, while software is digitally altered.
+Hardware hacks are very hard to detect, requiring full reverse engineering. Software hacks leave more detectable traces in code and network activity.
 
+## Things I want to know more about
