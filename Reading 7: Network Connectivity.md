@@ -39,3 +39,7 @@ Unlike SSH and SCP which used the 22 port, RDP uses port 3389.
 
 
 1. https://www.comparitech.com/net-admin/what-is-rdp/
+
+
+## Things I want to know more about
+
