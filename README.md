@@ -7,6 +7,7 @@ For each reading, the notes will aim to show my thoughts on the topics or answer
 
 ## Ops 201: Foundations of Computer Operations
 Prompt Engineering: https://github.com/focodecided/Ops-reading-notes/blob/main/prompt-engineering.md
+Dev Tools- Bash Shell: https://github.com/focodecided/Ops-reading-notes/blob/main/Dev%20Tools.md
 
 ## Ops 301: Networking and Systems Administration
 
