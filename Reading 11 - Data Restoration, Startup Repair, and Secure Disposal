@@ -1,0 +1,22 @@
+### 1. Why is this topic important?
+This topic is important because SSDs are increasingly used for storage, and having proper recovery practices enables retrieving critical data from failed drives.
+
+### 2. What are some common indicators that an SSD may be failing?
+Indicators include slowed performance, freezing, reboot issues, bad blocks, corrupted data, disappearing data, SMART errors, and readout failures.
+
+### 3. How do SSD failures differ from HDD failures in terms of detectability?
+SSD failures tend to be more sudden and catastrophic versus the more predictable increments of HDD failure. SSDs lack moving parts that provide early warning signs.
+
+### 4. What are bad blocks in an SSD, and how do they affect its performance?
+Bad blocks are memory cells that can no longer reliably hold data. They reduce usable capacity and indicate imminent complete failure.
+
+### 5. How can power cycling an SSD help resolve certain issues?
+Power cycling resets controller logic, clearing up temporary glitches, though it cannot fix permanent hardware failures.
+
+### 6. How might this topic be relevant in the aftermath of a natural disaster? Describe how individuals or communities can use these techniques to recover data and resume their normal activities.
+After disasters, data recovery techniques could help retrieve personal data from damaged devices to restore photos, documents, and more. At an organizational level, recovering data from servers enables restoring services to help communities. Proper backups remain ideal, but last-resort SSD recovery has benefits.
+
+### Things I want to learn more about. 
+Data Recovery from SSD Drives: What You Need to Know - N-ableLinks to an external site.
+
+
